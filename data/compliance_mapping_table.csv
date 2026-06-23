@@ -1,0 +1,9 @@
+Control Area,Technical Control,HIPAA/HITECH Relevance,GDPR Relevance,NIST SP 800-53 Relevance,CSA Cloud Security Relevance,Research Notes
+Data in transit,"TLS, secure API gateways",Transmission security,Integrity and confidentiality,"SC-8, SC-13",Secure communications,Baseline control
+Data at rest,"AES encryption, database encryption",ePHI protection,Confidentiality and storage limitation,SC-28,Data protection lifecycle,Does not protect data during processing
+Data in use,Homomorphic encryption,Reduced exposure of sensitive healthcare data,Privacy by design and data minimization,"SC-13, SC-28",Data-use protection,Central research focus
+Identity and access,"MFA, RBAC, ABAC",Access control and auditability,Access limitation and accountability,"AC-2, AC-3, IA-2",IAM controls,Required for implementation maturity
+Key management,"KMS/HSM, rotation, segregation",Safeguards encryption keys,Security of processing,"SC-12, SC-17",Key management lifecycle,May affect HE adoption
+Monitoring and audit,"SIEM, logs, traces",Audit controls and incident response,Accountability and breach detection,"AU family, IR family",Logging and monitoring,Supports compliance evidence
+Governance,"Policies, risk assessments, vendor reviews",Administrative safeguards,Privacy governance,"PM, RA, PL families",GRC,Connects technical controls to readiness
+Vendor support,"Cloud provider services, managed encryption, HE tooling",Vendor risk,Processor accountability,SA family,Third-party risk,May influence implementation success

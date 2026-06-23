@@ -1,0 +1,13 @@
+respondent_id,encryption_method,he_adoption_level,org_size,cloud_provider,security_incidents,latency_impact_score,compliance_readiness_score,vendor_support_score,key_management_maturity
+1,AES/RSA,None,Small,AWS,3,2,3,2,2
+2,Hybrid,Partial,Medium,Azure,2,3,4,3,3
+3,HE,Pilot,Large,AWS,1,4,4,4,4
+4,HE,Partial,Large,GCP,1,5,5,5,4
+5,AES/RSA,None,Medium,Azure,4,2,3,2,2
+6,Hybrid,Partial,Large,AWS,2,3,4,3,3
+7,HE,Full,Large,AWS,0,5,5,5,5
+8,AES/RSA,None,Small,Other,5,1,2,1,1
+9,Hybrid,Pilot,Medium,GCP,2,3,4,3,3
+10,HE,Pilot,Medium,Azure,1,4,4,4,4
+11,Hybrid,Partial,Large,AWS,2,3,4,4,3
+12,HE,Full,Large,Azure,0,5,5,5,5

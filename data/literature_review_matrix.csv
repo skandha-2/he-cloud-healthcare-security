@@ -1,0 +1,6 @@
+#,Citation,Topic Area,Methodology,Security Focus,Performance Focus,Compliance Focus,Key Findings,Research Gap,Relevance to My Work
+1,"Author, Year",Homomorphic encryption,Review / experiment / model,Data-in-use protection,Latency / throughput,HIPAA / GDPR / NIST,Summarize finding,What is missing?,Supports HE review section
+2,"Author, Year",Cloud healthcare databases,Case study / survey,"Access control, encryption",Scalability,HIPAA / HITECH,Summarize finding,What is missing?,Supports cloud healthcare context
+3,"Author, Year",Privacy-preserving AI/cloud,Experimental,Confidential computing / HE,GPU/cloud overhead,Governance,Summarize finding,What is missing?,Connects to AI security roles
+4,"Author, Year",Key management,Framework / empirical,"KMS, rotation, access control",Operational complexity,NIST / CSA,Summarize finding,What is missing?,Supports implementation barriers
+5,"Author, Year",Secure cloud architecture,Architecture / applied research,Defense-in-depth,Deployment feasibility,CSA / NIST,Summarize finding,What is missing?,Supports architecture diagram
